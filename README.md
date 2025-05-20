@@ -1,3 +1,4 @@
+# Creating repo to learn about the options available in github different options for public repository
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
